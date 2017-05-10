@@ -2,9 +2,9 @@
 A curated list of community made [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
 
 ## Sections
-* [Preview](https://github.com/Sgouws/nylas-mail-community-themes#contents)
-* [Themes](https://github.com/Sgouws/nylas-mail-community-themes#preview)
-* [Compatability](https://github.com/Sgouws/nylas-mail-community-themes#compatibility)
+* Preview
+* [Themes](https://github.com/Sgouws/nylas-mail-community-themes#themes)
+* [Compatibility](https://github.com/Sgouws/nylas-mail-community-themes#compatibility)
 * [Installation](https://github.com/Sgouws/nylas-mail-community-themes#installation)
 * [Create Your Own Theme](https://github.com/Sgouws/nylas-mail-community-themes#create-your-own-theme)
 * [Contributions and Submissions](https://github.com/Sgouws/nylas-mail-community-themes#contributions-and-submissions)
