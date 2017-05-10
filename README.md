@@ -57,3 +57,5 @@ For issues relating to this list, please feel free to send an Issue.
 * Complete preview section
 * Alphabetize theme list
 * Add links next to theme name to go to preview section
+* Outline potential compatability issues
+* Refine installation blurb
