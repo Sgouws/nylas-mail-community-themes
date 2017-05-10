@@ -21,6 +21,9 @@ This is incomplete and coming soon:
 * [Ido](https://github.com/edipox/n1-ido) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
 * [Solarized Dark](https://github.com/NSHenry/N1-Solarized-Dark) - Created by [Nate H](https://github.com/NSHenry)
 * [Level Up](https://github.com/stolinski/level-up-nylas-n1-theme) - Created by [Scott Tolinski](https://github.com/stolinski)
+* [Predawn](https://github.com/adambmedia/N1-Predawn) - Created by [Adam Boulanger](https://github.com/adambmedia)
+* [Taiga](https://github.com/noahbuscher/N1-Taiga) - Created by [Noah Buscher](https://github.com/noahbuscher)
+
 
 ## Compatibility
 
@@ -46,3 +49,7 @@ If you would like to submit or suggest a theme, just send an Issue or a Pull req
 Issues and bugs realting to specific themes should be directed at their respective Github pages.
 
 For issues relating to this list, please feel free to send an Issue.
+
+## To-do
+* Categorize themes into light/card/high contrast etc.
+* Basic writeup for each theme
