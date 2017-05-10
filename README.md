@@ -57,7 +57,7 @@ For issues relating to this list, please feel free to send an Issue.
 * Complete preview section
 * Alphabetize theme list
 * Add links next to theme name to go to preview section
-* Outline potential compatability issues
+* Outline potential compatibility issues
 * Refine installation blurb
 * Add topics
 * Add theme categories to preview and have tab system.
