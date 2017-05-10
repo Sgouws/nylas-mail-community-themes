@@ -4,10 +4,11 @@ A curated list of [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
 ## Preview
 I've created a page where you can see screenshots of all the available themes, as well as broswe and download at your leisure. I recommend you look here first.
 
+This is incomplete and coming soon:
 [Community Themes](https://sgouws.github.io/nylas-mail-community-themes/)
 
 ## Themes
-
+Coming Soon!
 
 ## Compatibility
 
