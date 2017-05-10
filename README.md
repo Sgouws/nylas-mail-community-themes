@@ -59,3 +59,5 @@ For issues relating to this list, please feel free to send an Issue.
 * Add links next to theme name to go to preview section
 * Outline potential compatability issues
 * Refine installation blurb
+* Add topics
+* Add theme categories to preview and have tab system.
