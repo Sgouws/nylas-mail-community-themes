@@ -9,6 +9,7 @@ A curated list of [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
 * [Create Your Own Theme](https://github.com/Sgouws/nylas-mail-community-themes#create-your-own-theme)
 * [Contributions and Submissions](https://github.com/Sgouws/nylas-mail-community-themes#contributions-and-submissions)
 * [Issues](https://github.com/Sgouws/nylas-mail-community-themes#issues)
+* [To-Do](https://github.com/Sgouws/nylas-mail-community-themes#to-do)
 
 
 ## Preview
@@ -50,6 +51,6 @@ Issues and bugs realting to specific themes should be directed at their respecti
 
 For issues relating to this list, please feel free to send an Issue.
 
-## To-do
+## To-Do
 * Categorize themes into light/card/high contrast etc.
 * Basic writeup for each theme
