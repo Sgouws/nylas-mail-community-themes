@@ -61,3 +61,4 @@ For issues relating to this repository, please feel free to send an Issue.
 * Refine installation blurb
 * Add topics
 * Add theme categories to preview and have tab system.
+* Add Header Image Banner
