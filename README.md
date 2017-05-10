@@ -4,7 +4,7 @@ A curated list of [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
 ## Preview
 I've created a page where you can see screenshots of all the available themes.
 
-[community Themes(https://sgouws.github.io/nylas-mail-community-themes/)
+[community Themes](https://sgouws.github.io/nylas-mail-community-themes/)
 
 ## Themes
 
@@ -24,12 +24,8 @@ Nylas has a nice base theme and guide to creating your own themes.
 
 [Create Your Own](https://github.com/nylas/nylas-mail-theme-starter)
 
-## Submit
-
-nylas.theme.submissions@sgouws.com
-
-## Contribute
-If you would like to submit or request a theme, just send an Issue or a Pull request.
+## Contributions and Submissions
+If you would like to submit or suggest a theme, just send an Issue or a Pull request.
 
 ## Issues
 Issues and bugs realting to specific themes should be directed at their respective Github pages.
