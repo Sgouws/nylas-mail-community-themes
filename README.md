@@ -1,7 +1,7 @@
 # Nylas Mail Community Themes
 A curated list of [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
 
-## Contents
+## Sections
 * [Preview](https://github.com/Sgouws/nylas-mail-community-themes#contents)
 * [Themes](https://github.com/Sgouws/nylas-mail-community-themes#preview)
 * [Compatability](https://github.com/Sgouws/nylas-mail-community-themes#compatibility)
@@ -18,7 +18,9 @@ This is incomplete and coming soon:
 [Community Themes](https://sgouws.github.io/nylas-mail-community-themes/)
 
 ## Themes
-Coming Soon!
+* [Ido](https://github.com/edipox/n1-ido) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
+* [Solarized Dark](https://github.com/NSHenry/N1-Solarized-Dark) - Created by [Nate H](https://github.com/NSHenry)
+* [Level Up](https://github.com/stolinski/level-up-nylas-n1-theme) - Created by [Scott Tolinski](https://github.com/stolinski)
 
 ## Compatibility
 
