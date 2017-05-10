@@ -1,5 +1,5 @@
 # Nylas Mail Community Themes
-A curated list of [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
+A curated list of community made [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
 
 ## Sections
 * [Preview](https://github.com/Sgouws/nylas-mail-community-themes#contents)
