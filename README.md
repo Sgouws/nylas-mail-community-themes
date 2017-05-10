@@ -46,7 +46,7 @@ Nylas has a nice guide to help you get started creating your own themes.
 ## Contributions and Submissions
 If you would like to submit or suggest a theme, just send an Issue or a Pull request.
 
-## Issues
+## Issues and Bugs
 Issues and bugs realting to specific themes should be directed at their respective Github pages.
 
 For issues relating to this list, please feel free to send an Issue.
@@ -54,3 +54,6 @@ For issues relating to this list, please feel free to send an Issue.
 ## To-Do
 * Categorize themes into light/card/high contrast etc.
 * Basic writeup for each theme
+* Complete preview section
+* Alphabetize theme list
+* Add links next to theme name to go to preview section
