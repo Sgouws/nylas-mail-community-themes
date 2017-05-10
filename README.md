@@ -2,7 +2,7 @@
 A curated list of [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
 
 ## Preview
-I've created a page where you can see screenshots of all the available themes, as well as broswe and download at your leisure. I recommend you look here first.
+I've created a page where you can see screenshots of all the available themes, as well as browse and download at your leisure. I recommend you look here first.
 
 This is incomplete and coming soon:
 [Community Themes](https://sgouws.github.io/nylas-mail-community-themes/)
@@ -13,6 +13,7 @@ Coming Soon!
 ## Compatibility
 
 ## Installation
+
 To install community themes:
 
 
@@ -22,9 +23,9 @@ To install community themes:
 5. Select `Change Theme...` from the top level menu, and you'll see the newly installed theme. That's it!
 
 ## Create Your Own Theme
-Nylas has a nice base theme and guide to creating your own themes.
+Nylas has a nice guide to help you get started creating your own themes.
 
-[Create Your Own](https://github.com/nylas/nylas-mail-theme-starter)
+[Theme Starter Guide](https://github.com/nylas/nylas-mail-theme-starter)
 
 ## Contributions and Submissions
 If you would like to submit or suggest a theme, just send an Issue or a Pull request.
