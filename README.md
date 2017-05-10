@@ -13,7 +13,7 @@ A curated list of community made [Nylas Mail](https://github.com/nylas/nylas-mai
 
 
 ## Preview (Work in progress)
-I've created a page where you can see screenshots of all the available themes, as well as browse and download at your leisure. I recommend you look here first.
+I've created a page where you can see screenshots of all the available themes, as well as browse and download at your leisure. I'd recommend starting here.
 
 This is incomplete and coming soon:
 [Community Themes](https://sgouws.github.io/nylas-mail-community-themes/)
@@ -62,3 +62,4 @@ For issues relating to this repository, please feel free to send an Issue.
 * Add topics
 * Add theme categories to preview and have tab system.
 * Add Header Image Banner
+* Add images to install process
