@@ -49,7 +49,7 @@ If you would like to submit or suggest a theme, just send an Issue or a Pull req
 ## Issues and Bugs
 Issues and bugs realting to specific themes should be directed at their respective Github pages.
 
-For issues relating to this list, please feel free to send an Issue.
+For issues relating to this repository, please feel free to send an Issue.
 
 ## To-Do
 * Categorize themes into light/card/high contrast etc.
