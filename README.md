@@ -24,6 +24,14 @@ This is incomplete and coming soon:
 * [Level Up](https://github.com/stolinski/level-up-nylas-n1-theme) - Created by [Scott Tolinski](https://github.com/stolinski)
 * [Predawn](https://github.com/adambmedia/N1-Predawn) - Created by [Adam Boulanger](https://github.com/adambmedia)
 * [Taiga](https://github.com/noahbuscher/N1-Taiga) - Created by [Noah Buscher](https://github.com/noahbuscher)
+* [Elementary Full](https://github.com/edipox/elementary-nylas) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
+* [Elementary Soft](https://github.com/edipox/elementary-nylas) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
+* [Ubuntu](https://github.com/ahmedlhanafy/Ubuntu-Ui-Theme-for-Nylas-N1) - Created by [Ahmed Elhanafy](https://github.com/ahmedlhanafy)
+* [Berend](https://github.com/Frique/N1-Berend) - Created by [Berend](https://github.com/Frique)
+* [Sunrise](https://github.com/jackiehluo/n1-sunrise) - Created by [Jackie Luo](https://github.com/jackiehluo)
+* [Less is more](https://github.com/P0WW0W/less-is-more) - Created by [Alexander Adkins](https://github.com/xander-adkins)
+* [ToogaBooga](https://github.com/brycedorn/N1-ToogaBooga) - Created by [Bryce Dorn](https://github.com/brycedorn)
+* [Material](https://github.com/jackiehluo/n1-material) - Created by [Jackie Luo](https://github.com/jackiehluo)
 
 
 ## Compatibility
