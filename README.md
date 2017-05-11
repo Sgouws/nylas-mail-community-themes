@@ -1,5 +1,5 @@
 # Nylas Mail Community Themes
-A curated list of community made [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
+A curated list of community made and non-bundled [Nylas Mail](https://github.com/nylas/nylas-mail) themes.
 
 ## Sections
 * Preview
@@ -19,23 +19,38 @@ This is incomplete and coming soon:
 [Community Themes](https://sgouws.github.io/nylas-mail-community-themes/)
 
 ## Themes
-* [Ido](https://github.com/edipox/n1-ido) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
-* [Solarized Dark](https://github.com/NSHenry/N1-Solarized-Dark) - Created by [Nate H](https://github.com/NSHenry)
-* [Level Up](https://github.com/stolinski/level-up-nylas-n1-theme) - Created by [Scott Tolinski](https://github.com/stolinski)
-* [Predawn](https://github.com/adambmedia/N1-Predawn) - Created by [Adam Boulanger](https://github.com/adambmedia)
-* [Taiga](https://github.com/noahbuscher/N1-Taiga) - Created by [Noah Buscher](https://github.com/noahbuscher)
-* [Elementary Full](https://github.com/edipox/elementary-nylas) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
-* [Elementary Soft](https://github.com/edipox/elementary-nylas) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
-* [Ubuntu](https://github.com/ahmedlhanafy/Ubuntu-Ui-Theme-for-Nylas-N1) - Created by [Ahmed Elhanafy](https://github.com/ahmedlhanafy)
+* [Agapanthus](https://github.com/taniadaniela/n1-agapanthus) - Created by [Tania Daniela Paiva](https://github.com/taniadaniela)
+* [Arc Dawn](https://github.com/varlesh/Nylas-Arc-Dark-Theme) - Created by [Alexey Varfolomeev](https://github.com/varlesh)
+* [Bemind](https://github.com/bemindinteractive/Bemind-N1-Theme) - Created by [Bemind Interactive](https://github.com/bemindinteractive)
 * [Berend](https://github.com/Frique/N1-Berend) - Created by [Berend](https://github.com/Frique)
-* [Sunrise](https://github.com/jackiehluo/n1-sunrise) - Created by [Jackie Luo](https://github.com/jackiehluo)
+* [BoraBora](https://github.com/arimai/N1-BoraBora) - Created by [Ira Praharaj](https://github.com/arimai)
+* [Darkish](https://github.com/dyrnade/N1-Darkish) - Created by [cem guresci](https://github.com/dyrnade)
+* [DarkSoda](https://github.com/adambullmer/N1-theme-DarkSoda) - Created by [Adam Bullmer](https://github.com/adambullmer)
+* [Dracula](https://github.com/dracula/nylas-n1) - Created by [Dracula Theme](https://github.com/dracula)
+* [Elementary(2 themes)](https://github.com/edipox/elementary-nylas) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
+* [Express](https://github.com/oeaeee/n1-express) - Created by [Corey Lee](https://github.com/oeaeee)
+* [Firefox](https://github.com/darshandsoni/n1-firefox-theme) - Created by [Darshan Soni](https://github.com/darshandsoni)
+* [Gmail](https://github.com/dregitsky/n1-gmail-theme) - Created by [dregitsky](https://github.com/dregitsky)
+* [Honeyduke](https://github.com/arimai/n1-honeyduke) - Created by [Ira Praharaj](https://github.com/arimai)
+* [Hull](https://github.com/unity/n1-hull) - Created by [Romain Dardour](https://github.com/unity)
+* [Kleinstein](https://github.com/diklein/Kleinstein) - Created by [David Klein](https://github.com/diklein)
+* [Ido](https://github.com/edipox/n1-ido) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
 * [Less is more](https://github.com/P0WW0W/less-is-more) - Created by [Alexander Adkins](https://github.com/xander-adkins)
+* [Level Up](https://github.com/stolinski/level-up-nylas-n1-theme) - Created by [Scott Tolinski](https://github.com/stolinski)
+* [Material](https://github.com/jackiehluo/n1-material) - Created by [Jackie Luo](https://github.com/jackiehluo)]
+* [Monokai](https://github.com/dcondrey/n1-monokai) - Created by [David Condrey](https://github.com/dcondrey)
+* [MouseEatsCat](https://github.com/MouseEatsCat/MouseEatsCat-N1) - Created by [Michel Descoteaux](https://github.com/MouseEatsCat)
+* [Predawn](https://github.com/adambmedia/N1-Predawn) - Created by [Adam Boulanger](https://github.com/adambmedia)
+* [Snow](https://github.com/Wattenberger/N1-snow-theme) - Created by [Amelia Wattenberger](https://github.com/Wattenberger)
+* [Solarized Dark](https://github.com/NSHenry/N1-Solarized-Dark) - Created by [Nate H](https://github.com/NSHenry)
+* [Stripe](https://github.com/oeaeee/n1-stripe) - Created by [Corey Lee](https://github.com/oeaeee)
+* [Sublime Dark](https://github.com/rishabhkesarwani/Nylas-Sublime-Dark-Theme) - Created by [Rishabh Kesarwani](https://github.com/rishabhkesarwani)
+* [Sunrise](https://github.com/jackiehluo/n1-sunrise) - Created by [Jackie Luo](https://github.com/jackiehluo)
+* [Taiga](https://github.com/noahbuscher/N1-Taiga) - Created by [Noah Buscher](https://github.com/noahbuscher)
 * [ToogaBooga](https://github.com/brycedorn/N1-ToogaBooga) - Created by [Bryce Dorn](https://github.com/brycedorn)
-* [Material](https://github.com/jackiehluo/n1-material) - Created by [Jackie Luo](https://github.com/jackiehluo)
-
 
 ## Compatibility
-
+Some themes have been optimized for certain platforms, while others may have teething issues
 ## Installation
 
 To install community themes:
