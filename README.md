@@ -35,16 +35,23 @@ This is incomplete and coming soon:
 * [Hull](https://github.com/unity/n1-hull) - Created by [Romain Dardour](https://github.com/unity)
 * [Kleinstein](https://github.com/diklein/Kleinstein) - Created by [David Klein](https://github.com/diklein)
 * [Ido](https://github.com/edipox/n1-ido) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
+* [Inbox](https://github.com/himanshu-dixit/Inbox-Theme-For-Nylas-N1) -Created by [Himanshu Dixit](https://github.com/himanshu-dixit)
 * [Level Up](https://github.com/stolinski/level-up-nylas-n1-theme) - Created by [Scott Tolinski](https://github.com/stolinski)
 * [Material](https://github.com/jackiehluo/n1-material) - Created by [Jackie Luo](https://github.com/jackiehluo)]
+* [MDL](https://github.com/Rawnly/n1-mdl) -Created by [Federico Vitale](https://github.com/Rawnly)
 * [Monokai](https://github.com/dcondrey/n1-monokai) - Created by [David Condrey](https://github.com/dcondrey)
 * [MouseEatsCat](https://github.com/MouseEatsCat/MouseEatsCat-N1) - Created by [Michel Descoteaux](https://github.com/MouseEatsCat)
+* [Narc](https://github.com/hugolabe/N1-Narc) -Created by [Hugo Olabera](https://github.com/hugolabe)
 * [Predawn](https://github.com/adambmedia/N1-Predawn) - Created by [Adam Boulanger](https://github.com/adambmedia)
+* [Simple](https://github.com/rdunk/N1-Simple) -Created by [Rupert Dunk](https://github.com/rdunk)
+* [Slack](https://github.com/jodyheavener/N1-Slack) -Created by [Jody Heavener](https://github.com/jodyheavener)
 * [Snow](https://github.com/Wattenberger/N1-snow-theme) - Created by [Amelia Wattenberger](https://github.com/Wattenberger)
 * [Solarized Dark](https://github.com/NSHenry/N1-Solarized-Dark) - Created by [Nate H](https://github.com/NSHenry)
 * [Stripe](https://github.com/oeaeee/n1-stripe) - Created by [Corey Lee](https://github.com/oeaeee)
 * [Sublime Dark](https://github.com/rishabhkesarwani/Nylas-Sublime-Dark-Theme) - Created by [Rishabh Kesarwani](https://github.com/rishabhkesarwani)
+* [SubTexDev](https://github.com/Shadave/Nylas-N1-Theme---SubTexDev) -Created by [Shadave](https://github.com/Shadave	)
 * [Sunrise](https://github.com/jackiehluo/n1-sunrise) - Created by [Jackie Luo](https://github.com/jackiehluo)
+* [Svelte](https://github.com/zacs/N1-Svelte) -Created by [Zac](https://github.com/zacs)
 * [ToogaBooga](https://github.com/brycedorn/N1-ToogaBooga) - Created by [Bryce Dorn](https://github.com/brycedorn)
 
 ## Compatibility
