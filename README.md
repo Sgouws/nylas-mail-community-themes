@@ -87,7 +87,7 @@ For issues relating to this repository, please feel free to send an Issue.
 * Categorize themes into light/card/high contrast etc.
 * Basic writeup for each theme
 * Complete preview section
-* Alphabetize theme list
+* ~~Alphabetize theme list~~
 * Add links next to theme name to go to preview section
 * Outline potential compatibility issues
 * Refine installation blurb
