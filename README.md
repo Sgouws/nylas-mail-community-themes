@@ -61,7 +61,7 @@ To install community themes:
 5. Select `Change Theme...` from the top level menu, and you'll see the newly installed theme. That's it!
 
 ## Create Your Own Theme
-Nylas has a nice guide to help you get started creating your own themes.
+Nylas has a guide to help you get started.
 
 [Theme Starter Guide](https://github.com/nylas/nylas-mail-theme-starter)
 
