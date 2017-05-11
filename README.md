@@ -24,7 +24,9 @@ This is incomplete and coming soon:
 * [Bemind](https://github.com/bemindinteractive/Bemind-N1-Theme) - Created by [Bemind Interactive](https://github.com/bemindinteractive)
 * [Berend](https://github.com/Frique/N1-Berend) - Created by [Berend](https://github.com/Frique)
 * [BoraBora](https://github.com/arimai/N1-BoraBora) - Created by [Ira Praharaj](https://github.com/arimai)
+* [Coloraiz](https://github.com/webeproject/Coloraiz-Theme-N1) - Created by [Webe Project](https://github.com/webeproject)
 * [Darkish](https://github.com/dyrnade/N1-Darkish) - Created by [cem guresci](https://github.com/dyrnade)
+* [Darkside Spark](https://github.com/ronilaukkarinen/ui-darkside-spark) - Created by [Roni Laukkarinen](https://github.com/ronilaukkarinen)
 * [DarkSoda](https://github.com/adambullmer/N1-theme-DarkSoda) - Created by [Adam Bullmer](https://github.com/adambullmer)
 * [Dracula](https://github.com/dracula/nylas-n1) - Created by [Dracula Theme](https://github.com/dracula)
 * [Elementary(2 themes)](https://github.com/edipox/elementary-nylas) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
@@ -37,6 +39,7 @@ This is incomplete and coming soon:
 * [Ido](https://github.com/edipox/n1-ido) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
 * [Inbox](https://github.com/himanshu-dixit/Inbox-Theme-For-Nylas-N1) -Created by [Himanshu Dixit](https://github.com/himanshu-dixit)
 * [Level Up](https://github.com/stolinski/level-up-nylas-n1-theme) - Created by [Scott Tolinski](https://github.com/stolinski)
+* [Lux](https://github.com/breitigan/Lux-N1-Theme) - Created by [Chris Breitigan](https://github.com/breitigan)
 * [Material](https://github.com/jackiehluo/n1-material) - Created by [Jackie Luo](https://github.com/jackiehluo)]
 * [MDL](https://github.com/Rawnly/n1-mdl) -Created by [Federico Vitale](https://github.com/Rawnly)
 * [Monokai](https://github.com/dcondrey/n1-monokai) - Created by [David Condrey](https://github.com/dcondrey)
