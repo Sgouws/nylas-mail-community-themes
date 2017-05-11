@@ -35,7 +35,6 @@ This is incomplete and coming soon:
 * [Hull](https://github.com/unity/n1-hull) - Created by [Romain Dardour](https://github.com/unity)
 * [Kleinstein](https://github.com/diklein/Kleinstein) - Created by [David Klein](https://github.com/diklein)
 * [Ido](https://github.com/edipox/n1-ido) - Created by [Edipo Vinicius da Silva](https://github.com/edipox)
-* [Less is more](https://github.com/P0WW0W/less-is-more) - Created by [Alexander Adkins](https://github.com/xander-adkins)
 * [Level Up](https://github.com/stolinski/level-up-nylas-n1-theme) - Created by [Scott Tolinski](https://github.com/stolinski)
 * [Material](https://github.com/jackiehluo/n1-material) - Created by [Jackie Luo](https://github.com/jackiehluo)]
 * [Monokai](https://github.com/dcondrey/n1-monokai) - Created by [David Condrey](https://github.com/dcondrey)
@@ -46,7 +45,6 @@ This is incomplete and coming soon:
 * [Stripe](https://github.com/oeaeee/n1-stripe) - Created by [Corey Lee](https://github.com/oeaeee)
 * [Sublime Dark](https://github.com/rishabhkesarwani/Nylas-Sublime-Dark-Theme) - Created by [Rishabh Kesarwani](https://github.com/rishabhkesarwani)
 * [Sunrise](https://github.com/jackiehluo/n1-sunrise) - Created by [Jackie Luo](https://github.com/jackiehluo)
-* [Taiga](https://github.com/noahbuscher/N1-Taiga) - Created by [Noah Buscher](https://github.com/noahbuscher)
 * [ToogaBooga](https://github.com/brycedorn/N1-ToogaBooga) - Created by [Bryce Dorn](https://github.com/brycedorn)
 
 ## Compatibility
