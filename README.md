@@ -48,7 +48,8 @@ This is incomplete and coming soon:
 * [ToogaBooga](https://github.com/brycedorn/N1-ToogaBooga) - Created by [Bryce Dorn](https://github.com/brycedorn)
 
 ## Compatibility
-Some themes have been optimized for certain platforms, while others may have teething issues
+Some themes have been optimized for certain platforms, while others may have teething issues, which may result in visual dissonance.
+
 ## Installation
 
 To install community themes:
