@@ -1,7 +1,7 @@
 # Nylas Mail Community Themes
 A curated list of community made and non-bundled [Nylas Mail](https://github.com/nylas/nylas-mail) N1 themes.
 
-<p align="center">![Screenshot of themes](media/title-img.png)</p>
+<p align="center"><img src="media/title-img.png"></p>
 
 ## Sections
 * Preview
@@ -87,15 +87,15 @@ Issues and bugs realting to specific themes should be directed at their respecti
 For issues relating to this repository, please feel free to send an Issue.
 
 ## To-Do
-[ ] Categorize themes into light/card/high contrast etc.
-[ ] Basic writeup for each theme
-[ ] Complete preview section
-[x] Alphabetize theme list
-[ ] Add links next to theme name to go to preview section
-[ ] Outline potential compatibility issues
-[ ] Refine installation blurb
-[ ] Add topics
-[ ] Add theme categories to preview and have tab system.
-[ ] Add Header Image Banner
-[ ] Add images to install process
-[x] Resize all images
+- [ ] Categorize themes into light/card/high contrast etc.
+- [ ] Basic writeup for each theme
+- [ ] Complete preview section
+- [x] Alphabetize theme list
+- [ ] Add links next to theme name to go to preview section
+- [ ] Outline potential compatibility issues
+- [ ] Refine installation blurb
+- [ ] Add topics
+- [ ] Add theme categories to preview and have tab system.
+- [ ] Add Header Image Banner
+- [ ] Add images to install process
+- [x] Resize all images
