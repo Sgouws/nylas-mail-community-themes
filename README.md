@@ -3,22 +3,22 @@
 <div align="center"><img src="media/title-img.png"></div>
 
 ## Sections
-* [Preview](https://github.com/Sgouws/nylas-mail-community-themes#preview) :mag:
-* [Themes](https://github.com/Sgouws/nylas-mail-community-themes#themes) :art:
-* [Compatibility](https://github.com/Sgouws/nylas-mail-community-themes#compatibility) :couple:
-* [Installation](https://github.com/Sgouws/nylas-mail-community-themes#installation) :floppy_disk:
-* :pencil2: [Create Your Own Theme](https://github.com/Sgouws/nylas-mail-community-themes#create-your-own-theme)
-* :incoming_envelope: [Contributions and Submissions](https://github.com/Sgouws/nylas-mail-community-themes#contributions-and-submissions)
-* :bug: [Issues](https://github.com/Sgouws/nylas-mail-community-themes#issues)
-* :heavy_check_mark: [To-Do](https://github.com/Sgouws/nylas-mail-community-themes#to-do)
+* :mag: **[Preview](https://github.com/Sgouws/nylas-mail-community-themes#preview)**
+* :art: **[Themes](https://github.com/Sgouws/nylas-mail-community-themes#themes)**
+* :couple: **[Compatibility](https://github.com/Sgouws/nylas-mail-community-themes#compatibility)**
+* :floppy_disk: **[Installation](https://github.com/Sgouws/nylas-mail-community-themes#installation)**
+* :pencil2: **[Create Your Own Theme](https://github.com/Sgouws/nylas-mail-community-themes#create-your-own-theme)**
+* :incoming_envelope: **[Contributions and Submissions](https://github.com/Sgouws/nylas-mail-community-themes#contributions-and-submissions)**
+* :bug: **[Issues](https://github.com/Sgouws/nylas-mail-community-themes#issues)**
+* :heavy_check_mark: **[To-Do](https://github.com/Sgouws/nylas-mail-community-themes#to-do)**
 
 
-## Preview (Work in progress)
+## :mag: Preview (Work in progress)
 I've created a page where you can see screenshots of all the available themes, as well as browse and download at your leisure. I'd recommend starting here.
 
 [Community Themes](https://sgouws.github.io/nylas-mail-community-themes/)
 
-## Themes
+## :art: Themes
 * Agapanthus - Inspired on Inbox by Google. Based on [Taiga](https://github.com/noahbuscher/N1-Taiga) - ([source](https://github.com/taniadaniela/n1-agapanthus), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 * Arc Dawn - ([source](https://github.com/varlesh/Nylas-Arc-Dark-Theme), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 * Bemind - ([source](https://github.com/bemindinteractive/Bemind-N1-Theme), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
@@ -58,10 +58,10 @@ I've created a page where you can see screenshots of all the available themes, a
 * Svelte - ([source](https://github.com/zacs/N1-Svelte), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 * ToogaBooga - ([source](https://github.com/brycedorn/N1-ToogaBooga), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 
-## Compatibility
+## :couple: Compatibility
 Some themes have been optimized for certain platforms, while others may have teething issues, which may result in visual dissonance.
 
-## Installation
+## :floppy_disk: Installation
 
 To install community themes:
 
@@ -71,20 +71,20 @@ To install community themes:
 3. Navigate to where you downloaded the theme and select the root folder. The theme is copied into the `~/.nylas-mail` folder for your convinence
 5. Select `Change Theme...` from the top level menu, and you'll see the newly installed theme. That's it!
 
-## Create Your Own Theme
+## :pencil2: Create Your Own Theme
 Nylas has a guide to help you get started.
 
 [Theme Starter Guide](https://github.com/nylas/nylas-mail-theme-starter)
 
-## Contributions and Submissions
+## :incoming_envelope: Contributions and Submissions
 If you would like to submit or suggest a theme, just send an Issue or a Pull request.
 
-## Issues and Bugs
+## :bug: Issues and Bugs
 Issues and bugs realting to specific themes should be directed at their respective Github pages.
 
 For issues relating to this repository, please feel free to send an Issue.
 
-## To-Do
+## :heavy_check_mark: To-Do
 - [ ] Categorize themes into light/card/high contrast etc.
 - [ ] Basic writeup for each theme
 - [ ] Complete preview section
