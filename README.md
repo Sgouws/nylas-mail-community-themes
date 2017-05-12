@@ -16,7 +16,6 @@
 ## Preview (Work in progress)
 I've created a page where you can see screenshots of all the available themes, as well as browse and download at your leisure. I'd recommend starting here.
 
-This is incomplete and coming soon:
 [Community Themes](https://sgouws.github.io/nylas-mail-community-themes/)
 
 ## Themes
