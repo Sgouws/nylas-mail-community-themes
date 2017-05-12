@@ -3,7 +3,7 @@
 <div align="center"><img src="media/title-img.png"></div>
 
 ## Sections
-* Preview
+* [Preview](https://github.com/Sgouws/nylas-mail-community-themes#preview)
 * [Themes](https://github.com/Sgouws/nylas-mail-community-themes#themes)
 * [Compatibility](https://github.com/Sgouws/nylas-mail-community-themes#compatibility)
 * [Installation](https://github.com/Sgouws/nylas-mail-community-themes#installation)
