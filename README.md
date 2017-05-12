@@ -3,10 +3,10 @@
 <div align="center"><img src="media/title-img.png"></div>
 
 ## Sections
-* :mag: [Preview](https://github.com/Sgouws/nylas-mail-community-themes#preview)
-* :art: [Themes](https://github.com/Sgouws/nylas-mail-community-themes#themes)
-* :couple: [Compatibility](https://github.com/Sgouws/nylas-mail-community-themes#compatibility)
-* :floppy_disk: [Installation](https://github.com/Sgouws/nylas-mail-community-themes#installation)
+* [Preview](https://github.com/Sgouws/nylas-mail-community-themes#preview) :mag:
+* [Themes](https://github.com/Sgouws/nylas-mail-community-themes#themes) :art:
+* [Compatibility](https://github.com/Sgouws/nylas-mail-community-themes#compatibility) :couple:
+* [Installation](https://github.com/Sgouws/nylas-mail-community-themes#installation) :floppy_disk:
 * :pencil2: [Create Your Own Theme](https://github.com/Sgouws/nylas-mail-community-themes#create-your-own-theme)
 * :incoming_envelope: [Contributions and Submissions](https://github.com/Sgouws/nylas-mail-community-themes#contributions-and-submissions)
 * :bug: [Issues](https://github.com/Sgouws/nylas-mail-community-themes#issues)
