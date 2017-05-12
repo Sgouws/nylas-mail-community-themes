@@ -86,17 +86,17 @@ For issues relating to this repository, please feel free to send an Issue.
 
 ## :heavy_check_mark: To-Do
 - [ ] Categorize themes into light/card/high contrast etc.
-- [ ] Basic writeup for each theme
 - [ ] Complete preview section
 - [x] Alphabetize theme list
 - [ ] Add links next to theme name to go to preview section
 - [ ] Outline potential compatibility issues
 - [ ] Refine installation blurb
-- [ ] Add topics
+- [x] Add topics
 - [ ] Add theme categories to preview and have tab system.
-- [ ] Add Header Image Banner
+- [x] Add Header Image Banner
 - [ ] Add images to install process
 - [x] Resize all images
 - [ ] Link Titles and Images on Preview page	
 - [ ] Add Missing Screenshots
 - [ ] Add relevant Nuylas Logo's etc to Preview.
+- [ ] Finalise Responsiveness of Preview
