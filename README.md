@@ -96,3 +96,4 @@ For issues relating to this repository, please feel free to send an Issue.
 * Add theme categories to preview and have tab system.
 * Add Header Image Banner
 * Add images to install process
+* Resize all images
