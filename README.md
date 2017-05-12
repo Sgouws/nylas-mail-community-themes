@@ -3,14 +3,14 @@
 <div align="center"><img src="media/title-img.png"></div>
 
 ## Sections
-* :mag: **[Preview](https://github.com/Sgouws/nylas-mail-community-themes#preview)**
-* :art: **[Themes](https://github.com/Sgouws/nylas-mail-community-themes#themes)**
-* :couple: **[Compatibility](https://github.com/Sgouws/nylas-mail-community-themes#compatibility)**
-* :floppy_disk: **[Installation](https://github.com/Sgouws/nylas-mail-community-themes#installation)**
-* :pencil2: **[Create Your Own Theme](https://github.com/Sgouws/nylas-mail-community-themes#create-your-own-theme)**
-* :incoming_envelope: **[Contributions and Submissions](https://github.com/Sgouws/nylas-mail-community-themes#contributions-and-submissions)**
-* :bug: **[Issues](https://github.com/Sgouws/nylas-mail-community-themes#issues)**
-* :heavy_check_mark: **[To-Do](https://github.com/Sgouws/nylas-mail-community-themes#to-do)**
+* **[Preview](https://github.com/Sgouws/nylas-mail-community-themes#preview)**
+* **[Themes](https://github.com/Sgouws/nylas-mail-community-themes#themes)**
+* **[Compatibility](https://github.com/Sgouws/nylas-mail-community-themes#compatibility)**
+* **[Installation](https://github.com/Sgouws/nylas-mail-community-themes#installation)**
+* **[Create Your Own Theme](https://github.com/Sgouws/nylas-mail-community-themes#create-your-own-theme)**
+* **[Contributions and Submissions](https://github.com/Sgouws/nylas-mail-community-themes#contributions-and-submissions)**
+* **[Issues](https://github.com/Sgouws/nylas-mail-community-themes#issues)**
+* **[To-Do](https://github.com/Sgouws/nylas-mail-community-themes#to-do)**
 
 
 ## :mag: Preview (Work in progress)
