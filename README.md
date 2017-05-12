@@ -1,6 +1,6 @@
-<p align="center"># Nylas Mail Community Themes
-A curated list of community made and non-bundled [Nylas Mail](https://github.com/nylas/nylas-mail) N1 themes.
-
+<p align="center">
+<h1>Nylas Mail Community Themes</h1>
+A curated list of community made and non-bundled <a href="https://github.com/nylas/nylas-mail">Nylas Mail</a> N1 themes.
 <img src="media/title-img.png"></p>
 
 ## Sections
