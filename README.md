@@ -98,4 +98,5 @@ For issues relating to this repository, please feel free to send an Issue.
 - [ ] Add Header Image Banner
 - [ ] Add images to install process
 - [x] Resize all images
-- [ ] Link Titles and Images on Preview page
+- [ ] Link Titles and Images on Preview page	
+- [ ] Add Missing Screenshots
