@@ -19,6 +19,7 @@ This is incomplete and coming soon:
 ~~[Community Themes](https://sgouws.github.io/nylas-mail-community-themes/)~~
 
 ## Themes
+* Agapanthus - Inspired on Inbox by Google. Based on [Taiga](https://github.com/noahbuscher/N1-Taiga) - ([source](https://github.com/taniadaniela/n1-agapanthus), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 * [Agapanthus](https://github.com/taniadaniela/n1-agapanthus) - Created by [Tania Daniela Paiva](https://github.com/taniadaniela)
 * [Arc Dawn](https://github.com/varlesh/Nylas-Arc-Dark-Theme) - Created by [Alexey Varfolomeev](https://github.com/varlesh)
 * [Bemind](https://github.com/bemindinteractive/Bemind-N1-Theme) - Created by [Bemind Interactive](https://github.com/bemindinteractive)
