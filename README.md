@@ -12,7 +12,6 @@
 * **[Issues](https://github.com/Sgouws/nylas-mail-community-themes#issues)**
 * **[To-Do](https://github.com/Sgouws/nylas-mail-community-themes#to-do)**
 
-
 ## :mag: Preview (Work in progress)
 I've created a page where you can see screenshots of all the available themes, as well as browse and download at your leisure. I'd recommend starting here.
 
