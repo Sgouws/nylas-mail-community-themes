@@ -35,7 +35,7 @@ I've created a page where you can see screenshots of all the available themes, a
 * Gmail - A Gmail Inspired Theme - ([source](https://github.com/dregitsky/n1-gmail-theme), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 * Honeyduke - ([source](https://github.com/arimai/n1-honeyduke), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 * Hull - ([source](https://github.com/unity/n1-hull), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
-* Kleinstein - Hides sidebar when no new messages  - ([source](https://github.com/diklein/Kleinstein), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
+* Kleinstein - Hides sidebar when there are no new messages  - ([source](https://github.com/diklein/Kleinstein), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 * Ido - ([source](https://github.com/edipox/n1-ido), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 * Inbox - Google Inbox Inspired Theme - ([source](https://github.com/himanshu-dixit/Inbox-Theme-For-Nylas-N1), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
 * Level Up - ([source](https://github.com/stolinski/level-up-nylas-n1-theme), [preview](https://sgouws.github.io/nylas-mail-community-themes/))
