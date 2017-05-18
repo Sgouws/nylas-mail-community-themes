@@ -84,7 +84,7 @@ Issues and bugs realting to specific themes should be directed at their respecti
 For issues relating to this repository, please feel free to send an Issue.
 
 ## :heavy_check_mark: To-Do
-- [ ] Categorize themes into light/card/high contrast etc.
+- [ ] Categorize themes into light/dark/high contrast etc.
 - [ ] Complete preview section
 - [x] Alphabetize theme list
 - [ ] Add links next to theme name to go to preview section
