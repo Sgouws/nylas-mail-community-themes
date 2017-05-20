@@ -87,7 +87,7 @@ For issues relating to this repository, please feel free to send an Issue.
 - [ ] Categorize themes into light/dark/high contrast etc.
 - [ ] Complete preview section
 - [x] Alphabetize theme list
-- [ ] Add links next to theme name to go to preview section
+- [x] Add links next to theme name to go to preview section
 - [ ] Outline potential compatibility issues
 - [ ] Refine installation blurb
 - [x] Add topics
