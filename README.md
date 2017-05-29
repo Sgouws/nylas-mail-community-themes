@@ -97,5 +97,5 @@ For issues relating to this repository, please feel free to send an Issue.
 - [x] Resize all images
 - [x] Link Titles and Images on Preview page	
 - [ ] Add Missing Screenshots
-- [ ] Add relevant Nuylas Logo's etc to Preview.
+- [ ] Add relevant Nylas Logo's etc to Preview.
 - [ ] Finalise Responsiveness of Preview
